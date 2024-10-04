@@ -15,10 +15,10 @@ router.get('/', async (req,res)=>{
 
 router.post('/', async (req,res)=>{
     try{
-            
+        
     }
     catch(err){
-        console.log(err);                                                               
+        console.log(err);
     }
 })
 
